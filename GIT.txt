@@ -3,3 +3,5 @@ Esta es una prueba para GIT
 Se coloca una segunda linea de comentario
 
 ya estamos aprendiendo git
+
+4to comentario para aprender de versiones
